@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="271bf9e1-be2f-4555-8d9b-8f48eb848c66" name="Changes" comment="" />
+    <list default="true" id="271bf9e1-be2f-4555-8d9b-8f48eb848c66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -29,25 +35,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.h1.executor": "Run",
-    "Python.h2.executor": "Run",
-    "Python.h3.executor": "Run",
-    "Python.h4.executor": "Run",
-    "Python.h5.executor": "Run",
-    "Python.h6.executor": "Run",
-    "Python.h7.executor": "Run",
-    "Python.h8.executor": "Run",
-    "Python.h9.executor": "Run",
-    "Python.p1.executor": "Run",
-    "Python.proble.py.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/asus/PycharmProjects/problemsolving"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.h1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.h2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.h3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.h4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.h5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.h6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.h7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.h8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.h9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.proble.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/asus/PycharmProjects/problemsolving&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.p1" />
   <component name="SharedIndexes">
     <attachedChunks>
